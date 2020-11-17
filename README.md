@@ -30,7 +30,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 ## My GitHub Repositories: https://github.com/codyalmand
 
-## Note Taker Repo: https://github.com/codyalmand/Budget-Tracker
+## Budget-Tracker Repo: https://github.com/codyalmand/Budget-Tracker
 
 <br>
 
