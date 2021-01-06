@@ -20,6 +20,19 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 <br>
 
+## Installation
+
+* install node.js,
+* (copy) this repo to clipboard,
+* open console command (terminal / bash)
+* "cd" into the desired folder,
+* "git clone (paste from clipboard)",
+* "cd" to the folder of that created repo copy,
+* npm install,
+* npm start
+
+<br>
+
 ## Licenses
 
 ![](https://img.shields.io/badge/License-MIT-brightgreen)
